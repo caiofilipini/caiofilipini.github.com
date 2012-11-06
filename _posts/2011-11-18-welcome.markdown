@@ -5,4 +5,4 @@ title: Welcome!
 
 Welcome to my ~~mess~~ blog. If you want to know a little bit more about myself, please read [this](/about.html).
 Anyway, I might write about technology, programming, music and much more. And I might not write about anything at all.
-Stay tuned.
+Stay tuned. Or maybe not. :)
